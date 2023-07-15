@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554759047343",
+    "project_id": "booksfirebase-9bc16",
+    "storage_bucket": "booksfirebase-9bc16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554759047343:android:d0ded840b09be142c62c5a",
+        "android_client_info": {
+          "package_name": "com.example.booksfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554759047343-8g5n3gitsit1tnvfpsml6189e6o6olil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCB8HkcYor5vKZEzN3EsSF6chGeoWkQao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554759047343-8g5n3gitsit1tnvfpsml6189e6o6olil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
